@@ -2,13 +2,13 @@ Base off lessons learned to start
 
 Barriers to entry - Discovery 
 
-• TLAs confusing 
+* TLAs confusing 
 
-• City Plan 
+* City Plan 
 
-• Divisional views of capabilities rather than a GBP view 
+* Divisional views of capabilities rather than a GBP view 
 
-• Docs split over GitHub, FD Confluence, PPB Confluence 
+* Docs split over GitHub, FD Confluence, PPB Confluence 
 
 • What’s current vs what’s target 
 
