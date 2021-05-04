@@ -2,21 +2,21 @@ Base off lessons learned to start
 
 Barriers to entry - Discovery 
 
-•TLAs confusing 
+• TLAs confusing 
 
-•City Plan 
+• City Plan 
 
-•Divisional views of capabilities rather than a GBP view 
+• Divisional views of capabilities rather than a GBP view 
 
-•Docs split over GitHub, FD Confluence, PPB Confluence 
+• Docs split over GitHub, FD Confluence, PPB Confluence 
 
-•What’s current vs what’s target 
+• What’s current vs what’s target 
 
-•Codebase map inventory out of date 
+• Codebase map inventory out of date 
 
-•Includes decommissioned TLAs 
+• Includes decommissioned TLAs 
 
-•Getting access to resources and tooling has been challenging 
+• Getting access to resources and tooling has been challenging 
 
  
 
